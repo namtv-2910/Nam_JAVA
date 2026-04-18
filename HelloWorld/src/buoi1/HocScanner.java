@@ -9,8 +9,7 @@ public class HocScanner {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Nhập số nguyên: ");
 		int a = sc.nextInt();
-		System.out.println("Nhập số thực")
-		;
+		System.out.println("Nhập số thực");
 		
 	}
 
